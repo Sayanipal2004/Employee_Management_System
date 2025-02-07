@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Hii this is form app.jsx</div>
+    <div>App</div>
   )
 }
 
